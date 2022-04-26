@@ -9,6 +9,8 @@
   "author": "diego",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "node-env-file": "^0.1.8"
   }
 }
